@@ -1,0 +1,29 @@
+git config --global user.email "varunmv5@gmail.com"
+
+git config --global user.name "varunmv5"
+
+git config --list
+
+
+echo "# pateoqtimages" >> README.md
+
+git init
+
+git add filename
+
+git commit "message"
+
+git remote add origin https://github.com/varunmv5/pateoqtimages.git
+
+git push -u origin master
+
+
+git rm -r --cached FolderName
+git commit -m "Removed folder from repository"
+git push origin master
+
+GIT Important video : https://www.youtube.com/watch?v=rVNFPj9jtb0
+
+GIT Tutorials Book : https://git-scm.com/book/en/v2
+
+
